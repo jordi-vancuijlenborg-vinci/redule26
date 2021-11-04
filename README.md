@@ -1,4 +1,4 @@
-#Console.WriteLine("Welcome!");
+Console.WriteLine("Welcome!");
 
 - 👋 Hi, I’m @redule26
 - 👀 I’m interested in Back-End, Csharp, HTML, CSS
