@@ -1,8 +1,8 @@
 Console.WriteLine("Welcome!");
 
 - 👋 Hi, I’m @redule26
-- 👀 I’m interested in Back-End, Csharp, HTML, CSS
-- 🌱 I’m currently learning Xamarin Forms
+- 👀 I’m interested in Back-End, Front-end, C-Sharp,.. 
+- 🌱 I’m currently learning Flutter and SwiftUI.
 - 📫 How to reach me : jordivcb@icloud.com
 
 <!---
