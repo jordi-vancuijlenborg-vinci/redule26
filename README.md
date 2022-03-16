@@ -2,7 +2,7 @@ Console.WriteLine("Welcome!");
 
 - 👋 Hi, I’m @redule26
 - 👀 I’m interested in Back-End, Front-end, C-Sharp,.. 
-- 🌱 I’m currently learning Flutter and SwiftUI.
+- 🌱 I’m currently learning JavaScript, jQuery, Java and C-Sharp.
 - 📫 How to reach me : jordivcb@icloud.com
 
 <!---
